@@ -217,6 +217,8 @@ body {
   gap: 20px;
   padding: 20px;
   background: white;
+  position: relative;
+  z-index: 200;
 }
 
 .action-btn {
